@@ -36,5 +36,4 @@ const Chart = ({ sparklineData }) => {
     </LineChart>
   );
 };
-
 export default Chart;
