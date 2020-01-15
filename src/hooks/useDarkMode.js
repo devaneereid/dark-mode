@@ -14,5 +14,4 @@ export const useDarkMode = () => {
     }, [values])
 
     return [values, setValues];
-
 };
